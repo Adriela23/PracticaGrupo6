@@ -97,7 +97,7 @@
                 <button class="btn-registrar">Registrar</button>
             </a>
             <!-- Botón que redirige a la página de consulta -->
-            <a href="consulta.html">
+            <a href="consultas.php">
                 <button class="btn-consultar">Consultar</button>
             </a>
         </div>

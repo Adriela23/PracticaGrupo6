@@ -1,0 +1,32 @@
+[
+    {
+        "codigo": "prod_6759fe39e0fef",
+        "producto": "carne",
+        "descripcion": "molida",
+        "precio": 51
+    },
+    {
+        "codigo": "prod_6759fe39e0ff3",
+        "producto": "zanahoria",
+        "descripcion": "rayada",
+        "precio": 81
+    },
+    {
+        "codigo": "prod_6759fe39e0ff4",
+        "producto": "carne",
+        "descripcion": "lomito",
+        "precio": 49
+    },
+    {
+        "codigo": "prod_6759fe39e0ff5",
+        "producto": "queso",
+        "descripcion": "maduro",
+        "precio": 54
+    },
+    {
+        "codigo": "prod_6759fe39e0ff6",
+        "producto": "pollo",
+        "descripcion": "sin hueso",
+        "precio": 98
+    }
+]
